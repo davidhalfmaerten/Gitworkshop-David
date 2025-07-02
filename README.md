@@ -1,2 +1,5 @@
 # Gitworkshop-David
-Demo Git
+
+Demo Git functionality.
+
+To be extended during workshop

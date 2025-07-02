@@ -1,0 +1,16 @@
+[Header]
+Experiment Name,Run25005
+Date,2025-06-04
+Module,GenerateFASTQ - 3.1.1
+Workflow,GenerateFASTQ
+Library Prep Kit,Custom
+Index Kit,Custom
+Description,Metabarcoding_Pilot_NARacBlk
+Chemistry,Amplicon
+[Reads]
+175
+175
+[Data]
+Sample_ID,Description,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project
+KapaL1_25x,,GCCAAT,GCCAAT,AGGCGAAG,AGGCGAAG,
+KapaL2_10x,,CTTGTA,CTTGTA,CAGGACGT,CAGGACGT,
